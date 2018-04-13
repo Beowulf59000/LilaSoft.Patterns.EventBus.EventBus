@@ -8,6 +8,7 @@
     <PackageProjectUrl>https://github.com/Beowulf59000/LilaSoft.Patterns.EventBus.EventBus</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Beowulf59000/LilaSoft.Patterns.EventBus.EventBus</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
+    <PackageLicenseUrl>https://github.com/Beowulf59000/LilaSoft.Patterns.EventBus.EventBus/blob/master/LICENSE.md</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
